@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/mircamtl/logo#readme",
   "dependencies": {
+    "enable-mobile": "^1.0.5",
     "gl-component": "^1.4.20",
     "inherits": "^2.0.1",
     "spiral-2d": "^1.1.0",
